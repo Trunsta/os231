@@ -21,6 +21,9 @@ ZCZC W02 40 L03 GitHub related
 ZCZC W02 90 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 30 L21 Trying something
 ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 10 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W02 30 L41 TXT/mylog.txt related
+ZCZC W02 10 L43 TXT/myrank.tex related, including peer review.
 ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 20 L61 Install/Reinstall/Restore/Backup Virtual Box
