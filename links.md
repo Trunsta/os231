@@ -15,3 +15,10 @@ An article about basic Linux commands. This helped me understand some commands o
 
 2. [Debuggex](https://www.debuggex.com/)<br>
 A useful website to test regular expressions. You can enter the regex and the string that you want to check, after that you get the result whether or not the string matches.
+
+### Week02
+1. [Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
+A short introductory video to Cyber Security. Very simple, but informative and enjoyable to watch with various images and animations to help you understand better.
+
+2. [Learn C](https://www.learn-c.org/)<br>
+A website for me to learn the C language. Good for beginners and intermediate learners.
