@@ -22,3 +22,9 @@ A short introductory video to Cyber Security. Very simple, but informative and e
 
 2. [Learn C](https://www.learn-c.org/)<br>
 A website for me to learn the C language. Good for beginners and intermediate learners.
+
+### Week03
+1. [File System Concept](https://www.youtube.com/watch?v=mzUyMy7Ihk0)<br>
+A very short video with animations and illustrations that is going to help you understand the concepts of file systems.
+2. [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/)<br>
+This website gives explanations and examples of common file management commands on Linux.
