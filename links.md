@@ -28,3 +28,9 @@ A website for me to learn the C language. Good for beginners and intermediate le
 A very short video with animations and illustrations that is going to help you understand the concepts of file systems.
 2. [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/)<br>
 This website gives explanations and examples of common file management commands on Linux.
+
+### Week04
+1. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+An article that explains the basics regarding memory and covers topics related to Memory Management.
+2. [Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE)<br>
+An alternative short video if you prefer to learn by watching. Enjoyable to watch and easy to understand with animations and images.
