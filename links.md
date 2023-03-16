@@ -34,3 +34,9 @@ This website gives explanations and examples of common file management commands 
 An article that explains the basics regarding memory and covers topics related to Memory Management.
 2. [Memory Manager](https://www.youtube.com/watch?v=qdkxXygc3rE)<br>
 An alternative short video if you prefer to learn by watching. Enjoyable to watch and easy to understand with animations and images.
+
+### Week05
+1. [Page Fault Handling in Operating System](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/)<br>
+An article that explains about page faulting and the sequence of events that happens to handle it.
+2. [OS Numerical on LRU, FIFO and Optimal](https://www.javatpoint.com/os-numerical-on-lru-fifo-and-optimal)<br>
+Some examples to find the number of page faults according to the LRU, FIFO and Optimal algorithm.
