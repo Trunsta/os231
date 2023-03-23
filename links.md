@@ -40,3 +40,9 @@ An alternative short video if you prefer to learn by watching. Enjoyable to watc
 An article that explains about page faulting and the sequence of events that happens to handle it.
 2. [OS Numerical on LRU, FIFO and Optimal](https://www.javatpoint.com/os-numerical-on-lru-fifo-and-optimal)<br>
 Some examples to find the number of page faults according to the LRU, FIFO and Optimal algorithm.
+
+### Week06
+1. [Fork in C](https://www.section.io/engineering-education/fork-in-c-programming-language/#:~:text=In%20the%20computing%20field%2C%20fork,also%20kills%20the%20child%20process.)<br>
+This article explains about what a fork is in Unix operating systems and examples of its operations in the C language.
+2. [PID and PPID in Linux](https://linuxhandbook.com/find-process-id/)<br>
+Explains about what are PID and PPID with its commands in Linux.
