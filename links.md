@@ -46,3 +46,9 @@ Some examples to find the number of page faults according to the LRU, FIFO and O
 This article explains about what a fork is in Unix operating systems and examples of its operations in the C language.
 2. [PID and PPID in Linux](https://linuxhandbook.com/find-process-id/)<br>
 Explains about what are PID and PPID with its commands in Linux.
+
+### Week07
+1. [Process Synchronization in OS]([https://www.section.io/engineering-education/fork-in-c-programming-language/#:~:text=In%20the%20computing%20field%2C%20fork,also%20kills%20the%20child%20process.](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/))<br>
+This article is about process synchronization in the operating system. This article is very complete providing explanation with analogies.
+2. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
+Concurrency is progress on more than one task at the same time and Parallelism is splitting tasks into smaller subtask that can be processed in parallel at the same time.
