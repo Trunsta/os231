@@ -52,3 +52,10 @@ Explains about what are PID and PPID with its commands in Linux.
 This article is about process synchronization in the operating system. This article is very complete providing explanation with analogies.
 2. [Concurrency vs Parallelism](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
 Concurrency is progress on more than one task at the same time and Parallelism is splitting tasks into smaller subtask that can be processed in parallel at the same time.
+
+### Week08
+1. [LFS Tutorial](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ) by Kernotex<br>
+A youtube playlist that takes you through the Linux From Scratch ver 11.3 book. The playlist covers all of the chapters on the book and each video guides you through very well.
+
+2. [Scheduling Algorithms](https://www.javatpoint.com/os-scheduling-algorithms)<br>
+Explains abouth the algorithm of schedulings.
